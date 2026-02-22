@@ -1,6 +1,6 @@
-# Data Science Exam (Autumn 2024) — CBS (Student ID 167055)
+# Data Science Exam 
 
-This repository contains my individual written exam submission for the course **Data Science: Data Driven Decision Making** at Copenhagen Business School (Autumn 2024), plus the **R implementation** used for the analyses (extracted from the appendix of the report).
+This repository contains my individual written exam submission for a course **Data Science: Data Driven Decision Making**, plus the **R implementation** used for the analyses (extracted from the appendix of the report).
 
 ## Contents
 
