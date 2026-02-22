@@ -1,0 +1,15 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# R Markdown / knitr
+*.html
+*.pdf
+*.docx
+*_cache/
+*_files/
+
+# OS
+.DS_Store
